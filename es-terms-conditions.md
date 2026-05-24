@@ -1,1 +1,27 @@
-Failed to generate text with Gemini.
+**Términos y Condiciones**
+
+Estos términos y condiciones se aplican a la aplicación Picture Plant Identifier (en adelante denominada "Aplicación") para dispositivos móviles, creada por Develion (en adelante denominada "Proveedor de Servicios") como un servicio Freemium.
+
+Al descargar o utilizar la Aplicación, aceptas automáticamente los siguientes términos. Se recomienda encarecidamente que leas y comprendas estos términos detenidamente antes de utilizar la Aplicación.
+
+Queda estrictamente prohibida la copia o modificación no autorizada de la Aplicación, de cualquier parte de la misma o de nuestras marcas comerciales. No se permite ningún intento de extraer el código fuente de la Aplicación, traducirla a otros idiomas ni crear versiones derivadas. Todas las marcas comerciales, derechos de autor, derechos de bases de datos y demás derechos de propiedad intelectual relacionados con la Aplicación siguen siendo propiedad del Proveedor de Servicios.
+
+El Proveedor de Servicios se dedica a garantizar que la Aplicación sea lo más útil y eficiente posible. Por ello, se reserva el derecho de modificar la Aplicación o de cobrar por sus servicios en cualquier momento y por cualquier motivo. El Proveedor de Servicios te garantiza que cualquier cargo relacionado con la Aplicación o sus servicios te será comunicado de manera clara.
+
+La Aplicación almacena y procesa los datos personales que has proporcionado al Proveedor de Servicios con el fin de prestar el Servicio. Es tu responsabilidad mantener la seguridad de tu teléfono y el acceso a la Aplicación. El Proveedor de Servicios desaconseja firmemente el jailbreak o el rooting de tu teléfono, que consiste en eliminar las restricciones y limitaciones de software impuestas por el sistema operativo oficial del dispositivo. Dichas acciones podrían exponer tu teléfono a malware, virus y programas maliciosos, comprometer las funciones de seguridad del dispositivo y provocar que la Aplicación no funcione correctamente o deje de funcionar por completo.
+
+Ten en cuenta que la Aplicación utiliza servicios de terceros que tienen sus propios Términos y Condiciones. A continuación, se encuentran los enlaces a los Términos y Condiciones de los proveedores de servicios externos utilizados por la Aplicación:
+
+*   [RevenueCat](https://www.revenuecat.com/terms)
+
+Ten presente que el Proveedor de Servicios no asume responsabilidad por ciertos aspectos. Algunas funciones de la Aplicación requieren una conexión a Internet activa, que puede ser Wi-Fi o proporcionada por tu operador de red móvil. El Proveedor de Servicios no se hace responsable si la Aplicación no funciona a plena capacidad debido a la falta de acceso a Wi-Fi o al agotamiento de tu tarifa de datos.
+
+Si utilizas la Aplicación fuera de una zona con Wi-Fi, ten en cuenta que siguen aplicándose los términos del contrato con tu operador de red móvil. En consecuencia, podrías incurrir en cargos por parte de tu operador por el uso de datos durante la conexión a la Aplicación, u otros cargos de terceros. Al utilizar la Aplicación, aceptas la responsabilidad por dichos cargos, incluidos los cargos por itinerancia de datos si utilizas la Aplicación fuera de tu territorio de origen (es decir, región o país) sin desactivar la itinerancia de datos. Si no eres el titular de la factura del dispositivo en el que utilizas la Aplicación, se asume que has obtenido el permiso del titular correspondiente.
+
+Del mismo modo, el Proveedor de Servicios no siempre puede asumir responsabilidad por el uso que hagas de la Aplicación. Por ejemplo, es tu responsabilidad asegurarte de que tu dispositivo permanezca cargado. Si tu dispositivo se queda sin batería y no puedes acceder al Servicio, el Proveedor de Servicios no puede ser considerado responsable.
+
+En cuanto a la responsabilidad del Proveedor de Servicios respecto al uso de la Aplicación, es importante señalar que, si bien se esfuerza por mantenerla actualizada y precisa en todo momento, depende de terceros para obtener información y ponerla a tu disposición. El Proveedor de Servicios no acepta ninguna responsabilidad por pérdidas, directas o indirectas, que puedas sufrir como resultado de depender exclusivamente de esta funcionalidad de la Aplicación.
+
+La Aplicación incorpora tecnologías de Inteligencia Artificial (IA) para proporcionar determinadas funciones o servicios. Al utilizar la Aplicación, reconoces y aceptas que la IA puede utilizarse para procesar datos y ofrecer funcionalidades. El Proveedor de Servicios garantiza que todo uso de la IA cumple con la legislación aplicable y está diseñado para mejorar la experiencia del usuario.
+
+El Proveedor de Servicios puede desear actualizar la Aplicación en algún momento. La Aplicación está actualmente disponible según los requisitos del sistema operativo (y de cualquier sistema adicional al que decidan ampliar su disponibilidad), los cuales pueden cambiar, por lo que deberás descargar las actualizaciones si deseas continuar utilizando la Aplicación. El Proveedor de Servicios no garantiza que siempre actualizará la Aplicación para que sea relevante para ti o compatible con la versión particular del sistema operativo instalada en tu dispositivo. No obstante, aceptas siempre instalar las actualizaciones de la Aplicación cuando te sean ofrecidas. El Proveedor de Servicios también puede decidir dejar de ofrecer la Aplicación y podrá suspender su uso en cualquier momento sin necesidad de notificarte previamente. Salvo que se te indique lo contrario, ante cualquier rescisión: (a) los derechos y licencias que se te otorgaron en estos términos cesarán; (b) deberás dejar de utilizar la Aplicación y, si fuera necesario, eliminarla de tu dispositivo.
